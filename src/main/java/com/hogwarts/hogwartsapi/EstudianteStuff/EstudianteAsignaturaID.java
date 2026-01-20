@@ -1,4 +1,4 @@
-package com.hogwarts.hogwartsapi;
+package com.hogwarts.hogwartsapi.EstudianteStuff;
 
 import java.io.Serializable;
 import java.util.Objects;

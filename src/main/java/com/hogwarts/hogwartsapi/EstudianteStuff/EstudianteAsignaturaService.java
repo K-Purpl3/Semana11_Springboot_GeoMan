@@ -1,5 +1,7 @@
-package com.hogwarts.hogwartsapi;
+package com.hogwarts.hogwartsapi.EstudianteStuff;
 
+import com.hogwarts.hogwartsapi.Asignatura.Asignatura;
+import com.hogwarts.hogwartsapi.Asignatura.AsignaturaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;

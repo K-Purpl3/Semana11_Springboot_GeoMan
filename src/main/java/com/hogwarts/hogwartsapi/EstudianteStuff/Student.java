@@ -1,7 +1,9 @@
-package com.hogwarts.hogwartsapi;
+package com.hogwarts.hogwartsapi.EstudianteStuff;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
+import com.hogwarts.hogwartsapi.Casa.Casa;
+import com.hogwarts.hogwartsapi.MascotaProfesor.Mascota;
 import jakarta.persistence.*;
 import lombok.Data;
 

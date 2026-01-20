@@ -1,6 +1,8 @@
-package com.hogwarts.hogwartsapi;
+package com.hogwarts.hogwartsapi.MascotaProfesor;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
+import com.hogwarts.hogwartsapi.Asignatura.Asignatura;
+import com.hogwarts.hogwartsapi.Casa.Casa;
 import jakarta.persistence.*;
 import lombok.Data;
 import java.time.LocalDate;

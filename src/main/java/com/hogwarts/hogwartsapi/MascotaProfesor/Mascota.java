@@ -1,6 +1,7 @@
-package com.hogwarts.hogwartsapi;
+package com.hogwarts.hogwartsapi.MascotaProfesor;
 
 
+import com.hogwarts.hogwartsapi.EstudianteStuff.Student;
 import jakarta.persistence.*;
 import lombok.Data;
 

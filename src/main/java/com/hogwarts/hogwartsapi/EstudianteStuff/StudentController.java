@@ -1,4 +1,4 @@
-package com.hogwarts.hogwartsapi;
+package com.hogwarts.hogwartsapi.EstudianteStuff;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

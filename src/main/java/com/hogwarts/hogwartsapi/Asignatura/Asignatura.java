@@ -1,4 +1,4 @@
-package com.hogwarts.hogwartsapi;
+package com.hogwarts.hogwartsapi.Asignatura;
 
 import jakarta.persistence.*;
 import lombok.Data;
